@@ -1,0 +1,9 @@
+{
+
+  "homepage":"https://devansh0810.github.io/dportfolio","scripts":{
+    "deploy": "gh-pages -d files"
+  },
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
